@@ -1,0 +1,4 @@
+[submodule "bam"]
+	path = bam
+	url = https://github.com/kaze-hk/bam.git
+	branch = window_buffer
